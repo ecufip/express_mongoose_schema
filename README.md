@@ -7,9 +7,13 @@ Boilerplate for a basic Express app using Mongoose with a schema.
 
 ## Usage
 Run mongodb:
+    
     $ mongod
 
 In different terminal:
+    
     $ npm start
+
+Running on:
 
 localhost:3000/documents
